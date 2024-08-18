@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    object-fit: contain; 
+
+}
+.logo{
+    width: 100px;
+    height: 100px;
+}
+/* productimage */
+.card-img-top{   
+    width: 80px;
+    height: 100px;
+    object-fit: contain;
+}
+.admin_image{
+    width:150px;
+    object-fit: contain;
+}
+.cart_img{
+    width:  80px;
+    height: 80px;  
+    object-fit: contain;
+}
+.payment_img{
+    width:90%;
+    margin:auto;
+    display:block
+}
+body{
+    overflow-x:hidden;
+}
+.product_img{
+    width:20%;
+    object-fit:contain;
+    }
+.content-section .title{
+  text-transform: uppercase;
+  font-size: 28px;
+}
+
+
+ 
+
+
+
+
+
